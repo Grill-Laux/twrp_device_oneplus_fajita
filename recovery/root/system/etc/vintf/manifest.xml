@@ -93,5 +93,7 @@
         <version>30</version>
         <version>31</version>
         <version>32</version>
+        <version>33</version>
+        <version>34</version>
     </system-sdk>
 </manifest>
